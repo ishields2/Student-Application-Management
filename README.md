@@ -7,7 +7,8 @@ higher education recruitment and from the need to create a functional software s
 Master's Degree. Since submitting the original project I continue to spend time adjusting and improving 
 the solution as a side project to my professional career.
 
-Version 1.0.1:
+Version 1.0.1: 
+
 The project is largely in its original version, with online database connectivity and several minor 
 modifications and big fixes being added since the original version (1.0.0). Planned changes and bug fixes
 for a future release are currently in progress. 
