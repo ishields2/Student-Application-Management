@@ -4,7 +4,8 @@ Thank you for your interest in my project. Student Application Management (SAM) 
 enable educational institutions and their partners to effectively manage the recruitment of both domestic 
 and international students. The project was conceived from a combination of my experience working within 
 higher education recruitment and from the need to create a functional software solution as part of my 
-Master's Degree. Since submitting the original project I continue to spend time adjusting and improving the solution.
+Master's Degree. Since submitting the original project I continue to spend time adjusting and improving 
+the solution as a side project to my professional career.
 
 Version 1.0.1:
 The project is largely in its original version, with online database connectivity and several minor 
